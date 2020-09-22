@@ -31,5 +31,5 @@
 
 [website]: https://lancerdonnie.netlify.com
 [twitter]: https://twitter.com/lancer_donnie
-[instagram]: https://instagram.com/okolosio_oghenemaro
-[linkedin]: https://www.linkedin.com/in/oghenemaro-okolosio-24653512a
+[instagram]: https://instagram.com/lancer_donnie
+[linkedin]: https://www.linkedin.com/in/adedeji-babajide-2ba801166/
