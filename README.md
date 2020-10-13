@@ -3,7 +3,7 @@
 - 😏 I'm a Full Stack Developer (MERN Stack)!
 - 💻 I Am A Web Developer And I Design Mobile-Friendly Web Applications Using Javascript As A Core Language.
 - 📘 I’m currently learning Asp.net core
-- 🌱 I Am Passionate About The Environment And Its Conservation.
+- 🌱 I Am interested in knowing everything. I live to discover.
 - 👯 I’m look forward to meeting developers
 - 🥅 2020 Goals: Learn Vuejs
 
