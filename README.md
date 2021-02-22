@@ -1,6 +1,6 @@
 ## Hi, I am Adedeji Babajide [website] .
 
-- 😏 I'm a Full Stack Developer (MERN Stack)!
+- 😏 I'm a Full Stack Developer (MERN | VEMN Stack)! + ASP.NET core
 - 💻 I Am A Web Developer And I Design Mobile-Friendly Web Applications Using Javascript As A Core Language.
 - 📘 I’m currently learning Python 
 - 🌱 I Am interested in knowing everything. I live to discover.
