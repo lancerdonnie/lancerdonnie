@@ -2,10 +2,10 @@
 
 - 😏 I'm a Full Stack Developer (MERN | VEMN Stack)! + ASP.NET core
 - 💻 I Am A Web Developer And I Design Mobile-Friendly Web Applications Using Javascript As A Core Language.
-- 📘 I’m currently learning Python 
+- 📘 I’m currently learning Kubernetes 
 - 🌱 I Am interested in knowing everything. I live to discover.
 - 👯 I’m look forward to meeting developers
-- 🥅 2020 Goals: Learn Svelte
+- 🥅 2021 Goals: Learn Svelte
 
 ### Connect with me:
 
@@ -31,7 +31,7 @@
  
 ---
 
-[website]: https://lancerdonnie.netlify.com
+[website]: https://www.babajideadedeji.com
 [twitter]: https://twitter.com/lancer_donnie
 [instagram]: https://instagram.com/lancer_donnie
-[linkedin]: https://www.linkedin.com/in/adedeji-babajide-2ba801166/
+[linkedin]: https://www.linkedin.com/in/babajideadedeji/
