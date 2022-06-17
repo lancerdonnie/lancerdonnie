@@ -2,10 +2,6 @@
 
 - 😏 I'm a Full Stack Developer (MERN | VEMN Stack)! + ASP.NET core
 - 💻 I Am A Web Developer And I Design Mobile-Friendly Web Applications Using Javascript As A Core Language.
-- 📘 I’m currently learning Kubernetes 
-- 🌱 I Am interested in knowing everything. I live to discover.
-- 👯 I’m look forward to meeting developers
-- 🥅 2021 Goals: Learn Svelte
 
 ### Connect with me:
 
