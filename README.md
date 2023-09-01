@@ -27,7 +27,7 @@
  
 ---
 
-[website]: https://www.babajideadedeji.com
+[website]: https://jyde.dev
 [twitter]: https://twitter.com/lancer_donnie
 [instagram]: https://instagram.com/lancer_donnie
 [linkedin]: https://www.linkedin.com/in/babajideadedeji/
