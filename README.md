@@ -1,4 +1,4 @@
-## Hi, I am Adedeji Babajide [website] .
+## Hi, I am Jayde Deji [website] .
 
 - 😏 I'm a Full Stack Developer (MERN | VEMN Stack)! + ASP.NET core
 - 💻 I Am A Web Developer And I Design Mobile-Friendly Web Applications Using Javascript As A Core Language.
